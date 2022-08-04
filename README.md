@@ -1,5 +1,6 @@
 # venv_env_python_tips
 
+#### To open a jupyter notebook with pandas in linux
 
 1. make directory
 
