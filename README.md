@@ -1,8 +1,6 @@
 # venv_env_python_tips
 
 
-# Note: use python 3.8 e.g. Ubuntu LTS 20
-
 1. make directory
 
 2. go into directory 
